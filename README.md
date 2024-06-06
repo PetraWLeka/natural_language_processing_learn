@@ -1,6 +1,6 @@
 # NLP with nltk python
 
-My learning notes for natural language processing with sentiment analysis project
+My learning notes for natural language processing with **sentiment analysis** project
 
 ## Table of Contents
 
